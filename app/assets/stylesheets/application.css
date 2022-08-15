@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+ .container {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container h1 {
+  font-weight: 200;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.answer{
+  background-color: rgb(243, 244, 213);
+}
